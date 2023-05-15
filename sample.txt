@@ -1,1 +1,6 @@
 Hello 
+
+
+day1
+
+GIT / git hub
